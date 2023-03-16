@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+fieldset{
+    width: 1200px;
+    height: 600px !important;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 80px;
+    border: 1px solid transparent;
+    box-shadow: 2px 5px 5px 5px grey;
+}
+.img-1{
+    margin-top: 50px;
+    margin-left: 80px;
+    display: inline-block;
+}
+.form-1{
+    width:500px;
+    height: auto;
+    display: inline-block;
+    float: right;
+    margin-top: 60px;
+    margin-right: 150px;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    color: #69B7FA;
+}
+.heading-2{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #1786FA;
+}
+.head{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.first-page{
+    padding: 10px 20px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+#standard{
+    margin-left: 95px;
+}
+#father{
+    margin-left: 10px;
+}
+#rollnum{
+    margin-left: 32px;
+}
+.btn{
+    padding: 10px 20px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 25px;
+    background-color: #1786FA;
+    color: #fff;
+    border: 1px solid #69B7FA;
+}
+.btn:hover{
+    background-color: #1DDE6A;
+    border: 1px solid #2DF543;
+}
